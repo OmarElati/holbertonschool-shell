@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod dugo+x
+chmod drwx--x--x *
