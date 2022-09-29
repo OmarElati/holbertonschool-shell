@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d : -f * /etc/passwd
+cut -d: -f"*" /etc/passwd
